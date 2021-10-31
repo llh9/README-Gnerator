@@ -1,21 +1,21 @@
-# Title
+# README GENERATOR README
 
     
 ## [Description](#description)
     
-This COOL project...
+This README Generator makes it easier for a developer to create a README file for their project by answering a few questions about the project and where to store the created README.md file.
     
 ### Motivation
     
-for the love of coding
+The Motivation for creating this application comes from the need of developers to be more efficient and effective when coding.
     
 ### Problems Solved 
     
-Not enough hours in a day
+Being able to focus more time on aspects of the coding process that demand more intellectual attention rather than on mindless and redundant activities allows the developer to be more productive.
     
 ### What I learned 
     
-File I/O, some npm skills, how to organize and set up a project for gorup development...
+I learned many new coding concepts, File I/O, some npm skills, how to organize and set up a project for gorup development and how to make tools that I can utilize to be more productive.
     
 ## [Table of Contents](#table-of-contents)
  
@@ -43,17 +43,22 @@ File I/O, some npm skills, how to organize and set up a project for gorup develo
     
 ## [Installation](#installation)
     
-run it
+This section explains the process of installing this README Generator application for use. 
+Clone an empty repository to an empty folder.
+Open an editor like VS Code that has a terminal with node.js and npm installed,
+Copy the index.js file from into the folder the README file is going in.
+In the command line interface, navigate inside the folder containing index.js 
+Enter the command "npm init -y" then "npm install inquirer" then run "node index.js"
     
 ## [Usage](#usage)
     
-use it
+Simply answer all the prompts and a README.md file will be created using the responses provided by the user.
     
 ## [Walkthrough Video](https://drive.google.com/file/d/1Qp05CiAGjZm47CEd0F0o0-C7Hpe5Y7dI/preview)
     
 ## [Test](#test)
     
-this is it
+This very README file was created using this application and all of these responses are designated as the default values
     
 ## [Badges](#badges)
     
@@ -67,7 +72,7 @@ If your project has a lot of features, list them here.
     
 ## [Contributors](#contributors)
     
-just me
+f
     
 ## [Contribute](#contribute)
     
@@ -75,7 +80,7 @@ If you created an application or package and would like other developers to cont
     
 ## [Questions](#questions)
     
-not just yet
+email me at llh9@yahoo.com
     
 ## [License](#license)
     

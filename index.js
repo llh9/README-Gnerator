@@ -8,31 +8,31 @@ inquirer.prompt([
     {
         type: 'input',
         message: 'What is the title of your project?',
-        default: 'Title',
+        default: 'README GENERATOR README',
         name: 'title',
     },
     {
         type: "input",
         message: "Write a short description about this project?",
-        default: 'This COOL project...',
+        default: 'This README Generator makes it easier for a developer to create a README file for their project by answering a few questions about the project and where to store the created README.md file.',
         name: "description",
     },
     {
         type: "input",
         message: "What was the motivation for the project?",
-        default: 'for the love of coding',
+        default: 'The Motivation for creating this application comes from the need of developers to be more efficient and effective when coding.',
         name: "motivation",
     },
     {
         type: "input",
         message: "What problems were encountered and was a solution provided?",
-        default: 'Not enough hours in a day',
+        default: 'Being able to focus more time on aspects of the coding process that demand more intellectual attention rather than on mindless and redundant activities allows the developer to be more productive.',
         name: "solutions",
     },
     {
         type: "input",
         message: "What was learned from completing this project?",
-        default: 'File I/O, some npm skills, how to organize and set up a project for gorup development...',
+        default: 'I learned many new coding concepts, File I/O, some npm skills, how to organize and set up a project for gorup development and how to make tools that I can utilize to be more productive.',
         name: "lessons",
     },
     {
@@ -45,13 +45,13 @@ inquirer.prompt([
     {
         type: "input",
         message: "Describe the intallation process?",
-        default: 'run it',
+        default: 'This section explains the process of installing this README Generator application for use. \nClone an empty repository to an empty folder.\nOpen an editor like VS Code that has a terminal with node.js and npm installed,\nCopy the index.js file from into the folder the README file is going in.\nIn the command line interface, navigate inside the folder containing index.js \nEnter the command "npm init -y" then "npm install inquirer" then run "node index.js"',
         name: "installation",
     },
     {
         type: "input",
         message: "Describe the usage?",
-        default: 'use it',
+        default: 'Simply answer all the prompts and a README.md file will be created using the responses provided by the user.',
         name: "usage",
     },
     {
@@ -63,19 +63,19 @@ inquirer.prompt([
     {
         type: "input",
         message: "Who are the contributors?",
-        default: 'just me',
+        default: 'Landon Hinkle',
         name: "contributors",
     },
     {
         type: "input",
         message: "Describe the test?",
-        default: 'this is it',
+        default: 'This very README file was created using this application and all of these responses are designated as the default values',
         name: "test",
     }, 
     {
         type: "input",
         message: "Describe how to submit questions?",
-        default: 'not just yet',
+        default: 'email me at llh9@yahoo.com',
         name: "questions",
     }
 
