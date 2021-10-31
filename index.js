@@ -102,7 +102,7 @@ inquirer.prompt([
     \n${answers.installation}
     \n## ${answers.Table_of_contents[1]}
     \n${answers.usage}
-    \n[![walk through video](https://watch.screencastify.com/v/IOT0hvabAnM155hevj0y)]
+    \n<iframe src="https://drive.google.com/file/d/1Qp05CiAGjZm47CEd0F0o0-C7Hpe5Y7dI/preview" width="640" height="480"></iframe>
     \n## ${answers.Table_of_contents[4]}
     \n${answers.test}
     \n## Badges
