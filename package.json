@@ -1,0 +1,23 @@
+{
+  "name": "readme-gnerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llh9/README-Gnerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llh9/README-Gnerator/issues"
+  },
+  "homepage": "https://github.com/llh9/README-Gnerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
