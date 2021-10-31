@@ -102,6 +102,7 @@ inquirer.prompt([
     \n${answers.installation}
     \n## ${answers.Table_of_contents[1]}
     \n${answers.usage}
+    \n[![walk through video](https://watch.screencastify.com/v/IOT0hvabAnM155hevj0y)]
     \n## ${answers.Table_of_contents[4]}
     \n${answers.test}
     \n## Badges

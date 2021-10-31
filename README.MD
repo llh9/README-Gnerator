@@ -40,6 +40,8 @@ run it
     
 use it
     
+[![walk through video](https://watch.screencastify.com/v/IOT0hvabAnM155hevj0y)]
+    
 ## Test
     
 this is it
