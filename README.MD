@@ -31,33 +31,18 @@ File I/O, some npm skills, how to organize and set up a project for gorup develo
 1. [Test](#test)
     
 1. [Questions](#questions)
-
-
     
 ## Installation
     
-undefined
-
+run it
     
 ## Usage
     
 use it
-
-    
-## License
-    
-one of em
-
-    
-## Contributors
-    
-just me
-
     
 ## Test
     
 this is it
-
     
 ## Badges
     
@@ -69,6 +54,10 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
     
 If your project has a lot of features, list them here.
     
+## Contributors
+    
+just me
+    
 ## How to Contribute
     
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
@@ -76,4 +65,8 @@ If you created an application or package and would like other developers to cont
 ## Questions
     
 not just yet
+    
+## License
+    
+one of em
     
