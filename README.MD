@@ -72,9 +72,11 @@ If your project has a lot of features, list them here.
     
 ## [Contributors](#contributors)
     
-f
+Landon Hinkle
     
 ## [Contribute](#contribute)
+    
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
     
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
     
@@ -84,5 +86,5 @@ email me at llh9@yahoo.com
     
 ## [License](#license)
     
-one of em
+MIT License, Copyright (c) 2021 Landon Hinkle Jr
     

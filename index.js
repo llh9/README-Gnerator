@@ -57,7 +57,7 @@ inquirer.prompt([
     {
         type: "input",
         message: "Describe the license under which this project is created?",
-        default: 'one of em',
+        default: "MIT License, Copyright (c) 2021 Landon Hinkle Jr",
         name: "license",
     },
     {
@@ -120,6 +120,7 @@ inquirer.prompt([
     \n## [${answers.Table_of_contents[3]}](#contributors)
     \n${answers.contributors}
     \n## [${answers.Table_of_contents[9]}](#contribute)
+    \n[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
     \nIf you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
     \n## [${answers.Table_of_contents[5]}](#questions)
     \n${answers.questions}
