@@ -109,7 +109,7 @@ inquirer.prompt([
     \n${answers.installation}
     \n## [${answers.Table_of_contents[1]}](#usage)
     \n${answers.usage}
-    \n## [Walkthrough Video]()
+    \n## [Walkthrough Video](https://watch.screencastify.com/v/U2QpCko7skGyMEGyo3ZA)
     \n### [Demo Screenshot 1](#demo-screenshot-1)
     \n![screenshot demo ](./SS1.PNG)
     \n### [Demo Screenshot 2](#demo-screenshot-2)
