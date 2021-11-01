@@ -56,6 +56,18 @@ Simply answer all the prompts and a README.md file will be created using the res
     
 ## [Walkthrough Video](https://drive.google.com/file/d/1Qp05CiAGjZm47CEd0F0o0-C7Hpe5Y7dI/preview)
     
+### [Demo Screenshot 1](#demo-screenshot-1)
+    
+![screenshot demo ](./SS1.PNG)
+    
+### [Demo Screenshot 2](#demo-screenshot-2)
+    
+![screenshot demo](./SS2.PNG)
+    
+### [Demo Screenshot 3](#demo-screenshot-3)
+    
+![screenshot demo](./SS3.PNG)
+    
 ## [Test](#test)
     
 This very README file was created using this application and all of these responses are designated as the default values
@@ -64,7 +76,7 @@ This very README file was created using this application and all of these respon
     
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
     
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+You can get badges hosted by [shields.io](https://shields.io/). 
     
 ## [Features](#features)
     
@@ -82,7 +94,11 @@ If you created an application or package and would like other developers to cont
     
 ## [Questions](#questions)
     
-email me at llh9@yahoo.com
+Email me at llh9@yahoo.com
+
+### Repository link
+
+[https://github.com/llh9/README-Gnerator](https://github.com/llh9/README-Gnerator)
     
 ## [License](#license)
     

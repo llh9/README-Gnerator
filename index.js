@@ -75,7 +75,7 @@ inquirer.prompt([
     {
         type: "input",
         message: "Describe how to submit questions?",
-        default: 'email me at llh9@yahoo.com',
+        default: 'Email me at llh9@yahoo.com\n\n### Repository link\n\n[https://github.com/llh9/README-Gnerator](https://github.com/llh9/README-Gnerator)',
         name: "questions",
     }
 
@@ -110,6 +110,12 @@ inquirer.prompt([
     \n## [${answers.Table_of_contents[1]}](#usage)
     \n${answers.usage}
     \n## [Walkthrough Video](https://drive.google.com/file/d/1Qp05CiAGjZm47CEd0F0o0-C7Hpe5Y7dI/preview)
+    \n### [Demo Screenshot 1](#demo-screenshot-1)
+    \n![screenshot demo ](./SS1.PNG)
+    \n### [Demo Screenshot 2](#demo-screenshot-2)
+    \n![screenshot demo](./SS2.PNG)
+    \n### [Demo Screenshot 3](#demo-screenshot-3)
+    \n![screenshot demo](./SS3.PNG)
     \n## [${answers.Table_of_contents[4]}](#test)
     \n${answers.test}
     \n## [${answers.Table_of_contents[7]}](#badges)
