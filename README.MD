@@ -54,7 +54,7 @@ Enter the command "npm init -y" then "npm install inquirer" then run "node index
     
 Simply answer all the prompts and a README.md file will be created using the responses provided by the user.
     
-## [Walkthrough Video](https://drive.google.com/file/d/1Qp05CiAGjZm47CEd0F0o0-C7Hpe5Y7dI/preview)
+## [Walkthrough Video]()
     
 ### [Demo Screenshot 1](#demo-screenshot-1)
     
